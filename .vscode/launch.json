@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GcdOfArray",
+            "request": "launch",
+            "mainClass": "GcdOfArray",
+            "projectName": "GCD-an-array_6c3de615"
+        }
+    ]
+}
